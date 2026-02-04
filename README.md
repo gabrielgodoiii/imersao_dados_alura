@@ -1,5 +1,9 @@
 # Imersão de Dados – Alura | Data Analysis Portfolio
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/SEU-USUARIO/imersao-dados-alura/blob/main/imersao_dados_alura.ipynb
+)
+
 Projeto de **análise de dados em Python** desenvolvido durante a **Imersão de Dados da Alura**, com foco em **exploração, tratamento e visualização de dados**, utilizando **Google Colab**.
 
 Este repositório faz parte do meu **portfólio técnico**, demonstrando habilidades práticas em **Data Analysis**, organização de projetos e boas práticas em notebooks.
